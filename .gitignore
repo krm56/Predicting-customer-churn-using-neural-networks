@@ -1,0 +1,10 @@
+# Ignore data files (too big for GitHub)
+data/
+*.csv
+*.zip
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
